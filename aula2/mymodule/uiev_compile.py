@@ -27,9 +27,9 @@ Options.error_on_uninitialized = True
 Options.convert_range = True
 Options.cache_builtins = True
 if iswindows:
-    Options.gcc_branch_hints = True
-else:
     Options.gcc_branch_hints = False
+else:
+    Options.gcc_branch_hints = True
 Options.lookup_module_cpdef = False
 Options.embed = False
 Options.cimport_from_pyx = True
