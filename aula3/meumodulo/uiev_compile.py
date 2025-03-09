@@ -49,6 +49,7 @@ configdict = {
     if numpyincludefolder
     else [],
     "define_macros": [
+        # SÓ USE QUANDO VOCÊ SABE O QUE ESTÁ FAZENDO!
         # ("NPY_NO_DEPRECATED_API", 1),
         # ("CYTHON_ASSUME_SAFE_MACROS", 0),
         # ("CYTHON_AVOID_BORROWED_REFS", 0),
