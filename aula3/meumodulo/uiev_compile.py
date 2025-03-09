@@ -90,7 +90,7 @@ configdict = {
     "extra_objects": [],
     "extra_compile_args": ["/std:c++20", "/openmp"]
     if iswindows
-    else ["-march=native", "-mtune=native", "-std=c++2a", "-pthread", "-openmp"],
+    else ["-march=native", "-mtune=native", "-std=c++2a", "-pthread", "-fopenmp"],
     "extra_link_args": [],
     "export_symbols": [],
     "swig_opts": [],
