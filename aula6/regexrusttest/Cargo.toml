@@ -1,0 +1,11 @@
+[package]
+name = "regex_dll"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]      # Required to build a dynamic library (DLL/.so/.dylib)
+
+[dependencies]
+regex = "1"                  # Regex crate for regular expressions
+libc = "0.2"                 # For FFI-compatible types like `c_char`
