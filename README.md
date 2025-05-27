@@ -25,3 +25,7 @@ Material para o Curso de Cython no [YouTube](https://www.youtube.com/watch?v=3g-
 ### 5ª Parte
 
 [![Video](https://img.youtube.com/vi/j9sfyaYcwR8/0.jpg)](https://www.youtube.com/watch?v=j9sfyaYcwR8)
+
+### 5ª Parte
+
+[![Video](https://img.youtube.com/vi/5j__ge-n2I8/0.jpg)](https://www.youtube.com/watch?v=5j__ge-n2I8)
